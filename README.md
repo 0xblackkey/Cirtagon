@@ -30,7 +30,7 @@ Cirtagon offers a layered riddle-solving journey, where:
 
 ## 🖼️ Preview
 
-![Cirtagon Game Interface](screenshot/screenshot_25_05_2025.png)
+![Cirtagon Game Interface](screenshot/25_05_2025.png)
 
 ---
 
