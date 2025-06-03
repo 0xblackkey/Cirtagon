@@ -83,6 +83,9 @@ function commander(cmd) {
     case "sealone":
       loopLines(sealone, "color2 margin", 80);
       break;
+    case "sealtwo":
+      loopLines(sealtwo, "color2 margin", 80);
+      break;
     case "terms":
       loopLines(terms, "color2 margin", 80);
       break;
